@@ -1,5 +1,4 @@
 
-````markdown
 # 🏦 ATM Management System – Structured Enquiry Project
 
 A C++ based **Object-Oriented ATM Management System** that simulates real-world banking functionalities such as user authentication, account management, transaction history tracking, and more. Developed as part of the *Structured Enquiry Project* for the **Object-Oriented Programming Lab (20ECSP203)** at KLE Technological University.
